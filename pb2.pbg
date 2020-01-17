@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "pb2.pbl" "";
+@end;
+@begin Objects
+ "pb2.sra" "pb2.pbl";
+ "w1.srw" "pb2.pbl";
+@end;
